@@ -10,4 +10,6 @@ npm install
 npm run serve
 ```
 ![001](https://github.com/BiranV/VueTS/assets/59264488/55cd0b0a-1463-4aee-975f-62fa104fc707)
-![002](https://github.com/BiranV/VueTS/assets/59264488/6a33e551-24cc-45fb-89e1-662c163f662e)
+
+![002](https://github.com/BiranV/VueTS/assets/59264488/852c52f0-8f31-4cbd-8bff-2a2ece0f1b2e)
+
