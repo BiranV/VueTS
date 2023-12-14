@@ -9,16 +9,5 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![001](https://github.com/BiranV/VueTS/assets/59264488/55cd0b0a-1463-4aee-975f-62fa104fc707)
+![002](https://github.com/BiranV/VueTS/assets/59264488/6a33e551-24cc-45fb-89e1-662c163f662e)
