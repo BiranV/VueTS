@@ -13,11 +13,11 @@
             </form>
             <p>Gender: {{ person.gender }}</p>
             <p>Age: {{ person.dob.age }}, Year: {{ getYearOfBirth(person.dob.date) }}</p>
-            <p>Address:</p>
+            <h4>Address:</h4>
             <p>Street: {{ person.location.street.number }} {{ person.location.street.name }}</p>
             <p>City: {{ person.location.city }}</p>
             <p>State: {{ person.location.state }}</p>
-            <p>Contact:</p>
+            <h4>Contact:</h4>
             <p>Email: {{ person.email }}</p>
             <p>Phone: {{ person.phone }}</p>
         </div>
@@ -116,5 +116,9 @@ button {
     display: flex;
     justify-content: center;
     margin-bottom: 20px;
+}
+
+h4 {
+    margin-top: 0.5rem;
 }
 </style>
